@@ -1,1 +1,4 @@
 
+A simple Web based video call app made using websocket and nodejs
+
+To run the project you need to run node server.js in the command prompt to set up the server then go the sender.html page and initiate the call . The reciever can enter in the sender's username to which he wants to connect to .
