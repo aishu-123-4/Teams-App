@@ -1,13 +1,11 @@
-
 # 💬 Teams-App (Real-Time Communication Platform)
 A lightweight video call app inspired by Microsoft Teams.  
 Supports sign-in and video calling feature
----
+
 ## 🚀 Features
 - 🔸 User connection to server 
 - 🔸 Video call
 
----
 ## 🛠 Tech Stack
 - Frontend: HTML, CSS, JS  
 - Backend: Node.js, Websocket
@@ -16,7 +14,8 @@ Supports sign-in and video calling feature
 1. Run server.js in the command prompt to set up the server 
 2. Go to sender.html and initiate the call
 3. Receiver enters sender's username to which he wants to connect to
----
+
+
 ## 📌 Future Enhancements
 - WebSockets for real-time chat  
 - Role-based permissions  
