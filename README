@@ -1,4 +1,23 @@
 
-A simple Web based video call app made using websocket and nodejs
+# 💬 Teams-App (Real-Time Communication Platform)
+A lightweight video call app inspired by Microsoft Teams.  
+Supports sign-in and video calling feature
+---
+## 🚀 Features
+- 🔸 User connection to server 
+- 🔸 Video call
 
-To run the project you need to run server.js in the command prompt to set up the server then go the sender.html page and initiate the call . The reciever can enter in the sender's username to which he wants to connect to .
+---
+## 🛠 Tech Stack
+- Frontend: HTML, CSS, JS  
+- Backend: Node.js, Websocket
+
+## ▶️ How to Run
+1. Run server.js in the command prompt to set up the server 
+2. Go to sender.html and initiate the call
+3. Receiver enters sender's username to which he wants to connect to
+---
+## 📌 Future Enhancements
+- WebSockets for real-time chat  
+- Role-based permissions  
+
